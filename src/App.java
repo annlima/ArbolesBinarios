@@ -25,7 +25,6 @@ public class App {
 
         while (salir == true){
             Scanner input = new Scanner(System.in);
-            System.out.print("\nUna posible aplicación podría ser: Árboles de Expresión, que se utilizan para representar expresiones algebraicas.\n");
             System.out.print("\nIngresa:\n1. Si quieres preorden\n2. Si quieres in order\n3. Si quieres postorden \n4. Para salir\n");
             int respuesta = input.nextInt();
 
