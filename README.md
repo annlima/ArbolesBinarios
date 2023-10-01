@@ -32,7 +32,9 @@ Imagen obtenida de: https://hhmosquera.wordpress.com/arbolesbinarios/
 La rama izquierda y la derecha, también son dos árboles binarios; donde, el vértice principal se denomina raíz y cada una de las ramas se  puede denominar como subárbol izquierdo y subárbol derecho.
 
 **Recorrido en Preorden:** En este recorrido, primero se visita el nodo actual, luego el subárbol izquierdo y finalmente el subárbol derecho.
+
 **Recorrido en Inorden:** Primero se visita el subárbol izquierdo, luego el nodo actual y finalmente el subárbol derecho.
+
 **Recorrido en Postorden:** Se visita primero el subárbol izquierdo, luego el subárbol derecho y finalmente el nodo actual.
 
 ## Pruebas:
