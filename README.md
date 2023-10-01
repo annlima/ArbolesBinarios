@@ -21,6 +21,7 @@ Este proyecto implementa un árbol binario y realiza tres tipos de recorridos: p
   2   3
  / \   \
 4   5   6
+```
 
 Los árboles binarios son estructuras de datos que tienen dos punteros que apuntan a otros elementos, con una estructura lógica ramificada. Tienen aspecto de árbol, de ahí su nombre; algunos ejemplos son los árboles genealógicos y los organigramas.
 
@@ -55,6 +56,7 @@ Para postorden:
 
 
 ## Documentación:
+
 Los árboles binarios, especialmente con sus recorridos como inorden, tienen un papel crucial, porque por ejemplo los árboles binarios de búsqueda (BST) sirven en búsquedas rápidas, o para insertar y eliminar datos, como en las bases de datos. Además, en expresiones matemáticas para programación, los árboles de expresión nos ayudan a representar y evaluar estas fórmulas.
 
 ## Recursos Adicionales
@@ -65,3 +67,8 @@ Los árboles binarios, especialmente con sus recorridos como inorden, tienen un 
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún error o tienes una mejora, no dudes en abrir un issue o enviar un pull request.
+
+## Autor
+
+- Andrea Lima Blanca
+- Contacto: andrealimablanca@outlook.com
